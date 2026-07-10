@@ -1,0 +1,12 @@
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro-compressed.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/pro.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/pro.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/gambling.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/gambling.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts
+https://raw.githubusercontent.com/bogdancordos/pi-hole/refs/heads/main/PLV01.txt
